@@ -2,3 +2,6 @@ HelloWorld
 *.o
 test
 circle
+CMakeLists2.txt
+bin
+build
